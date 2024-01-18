@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SaurabhArdona
 - 👀 I’m interested in Website Development
 - 🌱 I’m currently learning JavaScript And JQuery
-- 📫 How to reach me ...
 - 😄 Pronouns: Mr. Saurabh
 
 <!---
